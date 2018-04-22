@@ -14,4 +14,4 @@ This script works especially for laravel, but can be used for any other environm
 - Run `python heroku-config.py` . You should see your config vars getting set on after the other
 - That's all
 
-### Now you spend your time saving the world instead of setting Config Vars.
+### Now you can spend your time saving the world instead of setting Config Vars.
